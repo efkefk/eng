@@ -18,9 +18,21 @@ body {
 
 .link{
 	font-size:100%;
-	
+	text-align:center;
 	
 	
 }
 
+.title1{
+	font-family:"游ゴシック", "ＭＳ Ｐゴシック", sans-serif;
+	font-size:300%;
+	color:white;
+}
+
+.desc{
+	border: double 1px white;
+	margin: 50px 50px;
+	
+	
+}
 
